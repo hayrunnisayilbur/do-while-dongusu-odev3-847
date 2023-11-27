@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while döngüsü ödev-3-847", "do-while döngüsü ödev-3-847\do-while döngüsü ödev-3-847.csproj", "{C8867697-CC6A-4C7E-BA1D-210295F7E7DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8867697-CC6A-4C7E-BA1D-210295F7E7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8867697-CC6A-4C7E-BA1D-210295F7E7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8867697-CC6A-4C7E-BA1D-210295F7E7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8867697-CC6A-4C7E-BA1D-210295F7E7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01067444-DFC0-4562-AFF6-F131B003AEA8}
+	EndGlobalSection
+EndGlobal
